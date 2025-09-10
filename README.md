@@ -16,3 +16,6 @@ selling in terms of quantity and
  revenue?
  How do sales vary by product
  category and type
+----
+
+![Preview](Coffee-Shop-Sales-Dashboard.png)
